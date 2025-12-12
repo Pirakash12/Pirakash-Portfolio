@@ -1415,37 +1415,37 @@ main {
 .gradient-one {
   background-image:
     /* linear-gradient(135deg, #0ea5e9aa, #6366f1aa), */
-    url('assets/sample.png');
+    url('assets/sample1.png');
 }
 
 .gradient-two {
   background-image:
     /* linear-gradient(135deg, #0ea5e9aa, #6366f1aa), */
-    url('assets/sample.png');
+    url('assets/sample2.png');
 }
 
 .gradient-three {
   background-image:
     /* linear-gradient(135deg, #0ea5e9aa, #6366f1aa), */
-    url('assets/sample.png');
+    url('assets/sample3.png');
 }
 
 .gradient-four {
   background-image:
     /* linear-gradient(135deg, #0ea5e9aa, #6366f1aa), */
-    url('assets/sample.png');
+    url('assets/sample4.png');
 }
 
 .gradient-five {
   background-image:
     /* linear-gradient(135deg, #0ea5e9aa, #6366f1aa), */
-    url('assets/sample.png');
+    url('assets/sample5.png');
 }
 
 .gradient-six {
   background-image:
     /* linear-gradient(135deg, #0ea5e9aa, #6366f1aa), */
-    url('assets/sample.png');
+    url('assets/sample6.png');
 }
 
 /*Effects finished*/
