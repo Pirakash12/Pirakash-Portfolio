@@ -2213,6 +2213,42 @@ textarea {
   transform: scale(1.25) rotate(-10deg);
 }
 
+.cv-neonn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 26px;
+  font-weight: 600;
+  border-radius: 999px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+  text-decoration: none;
+  color: #ffffff;
+  background: linear-gradient(135deg, #2bb7e2, #0a8ec7);
+  box-shadow: 0 10px 30px rgba(43, 113, 226, 0.45);
+              /* 0 0 15px rgba(119, 8, 189, 0.5); */
+  transition: 0.3s ease-in-out;
+}
+
+.cv-neonn:hover {
+  transform: translateY(-2px) scale(1.03);
+  box-shadow: 0 14px 40px rgba(43, 156, 226, 0.65),
+              0 0 20px rgba(8, 132, 189, 0.75);
+}
+
+.cv-neonn i {
+  font-size: 18px;
+  transition: 0.3s ease-in-out;
+}
+
+.cv-neonn:hover i {
+  transform: scale(1.25) rotate(-10deg);
+}
+
+
+
+
 /* ===========================
    ABOUT SECTION (FINAL)
 =========================== */
